@@ -1,0 +1,164 @@
+Title	Authors	Emails	Affiliations	Abstract	Keywords
+"
+      Hydrodynamic fluctuations and long-time tails in a fluid on an anisotropic background
+     "	"
+        Ashish Shukla
+       "	"
+          ashukla@perimeterinstitute.ca
+         "	"
+         Perimeter Institute for Theoretical Physics, 31 Caroline Street North, Waterloo, Ontario N2L 2Y5, Canada
+        "	"
+       The effective low-energy late-time description of many body systems near thermal equilibrium provided by classical hydrodynamics in terms of dissipative transport phenomena receives important corrections once the effects of stochastic fluctuations are taken into account. One such physical effect is the occurrence of long-time power law tails in correlation functions of conserved currents. In the hydrodynamic regime
+       
+       this amounts to non-analytic dependence of the correlation functions on the frequency
+       
+       . In this article, we consider a relativistic fluid with a conserved global
+       
+       charge in the presence of a strong background magnetic field, and compute the long-time tails in correlation functions of the stress tensor. The presence of the magnetic field renders the system anisotropic. In the absence of the magnetic field, there are three out-of-equilibrium transport parameters that arise at the first order in the hydrodynamic derivative expansion, all of which are dissipative. In the presence of a background magnetic field, there are ten independent out-of-equilibrium transport parameters at the first order, three of which are non-dissipative and the rest are dissipative.
+We provide the most general linearized equations about a given state of thermal equilibrium involving the various transport parameters in the presence of a magnetic field, and use them to compute the long-time tails for the fluid.
+      "	"
+
+       
+      
+      Hydrodynamic fluctuations,  Charged fluids,  Magnetic fields,  Non-analyticities,  Long-time tails
+      
+
+       arXiv:2101.10000
+      
+"
+"
+      Diverse Adversaries for Mitigating Bias in Training
+     "	"
+        Xudong Han
+        
+        &Timothy Baldwin
+        
+        School of Computing and Information Systems
+        
+        The University of Melbourne
+        
+        Victoria 3010, Australia
+        
+
+         xudongh1@student.unimelb.edu.au
+        
+
+
+         {tbaldwin,tcohn}@unimelb.edu.au
+        
+
+        &Trevor Cohn
+        
+"	N/A	N/A	"
+
+        Adversarial learning can learn fairer and less biased models of language than standard methods.
+However, current adversarial techniques only partially mitigate model bias, added to which their training procedures are often unstable.
+In this paper, we propose a novel approach to adversarial learning based on the use of multiple
+        
+         diverse
+        
+        discriminators,
+whereby discriminators are encouraged to learn orthogonal hidden representations from one another.
+Experimental results show that our method substantially improves over
+standard adversarial removal methods, in terms of reducing bias and the stability of training.
+       
+"	N/A
+"
+
+
+      Securing Full-Duplex Amplify-and-Forward Relay-Aided
+      
+      Transmissions Through Processing-Time Optimization
+     "	"
+        Mohamed Marzban
+        
+        , Ahmed El Shafie
+        
+        , Ahmed Sultan
+        
+        , Naofal Al-Dhahir
+        
+
+
+
+
+
+
+             University of Texas at Dallas, USA.
+            
+
+
+
+
+
+
+             Qualcomm Inc, CA, USA.
+            
+
+
+
+
+
+
+             King Abdullah University of Science and Technology (KAUST), Saudi Arabia.
+            
+
+
+
+
+"	N/A	N/A	"
+       We investigate physical-layer security of the full-duplex (FD) amplify-and-forward (AF) relay channel. We provide a new perspective on the problem and show that the processing time (delay) at the relay can be exploited to improve the system’s security. We show that the FD AF relay channel can be seen as an intersymbol-interference (ISI) channel, hence, the discrete-Fourier transform (DFT) can be used for data modulation and demodulation to convert the frequency-selective channel into flat-fading channel per sub-channel/sub-carrier. By exploiting the fact that the channel memory needs to be cleared by inserting the cyclic-prefix, Alice injects an artificial-noise (AN) signal that hurts the eavesdropping nodes only. The strength of this AN signal and its interference rank are controlled by the relay’s processing time.
+      "	N/A
+"
+      Sensitivity of the Cherenkov Telescope Array to dark subhalos
+     "	"
+        Javier Coronado-Blázquez
+       , 
+        Michele Doro
+       , 
+        Miguel A. Sánchez-Conde
+       , 
+        Alejandra Aguirre-Santaella
+       "	"
+          javier.coronado@uam.es
+         , 
+          michele.doro@unipd.it
+         , 
+          miguel.sanchezconde@uam.es
+         , 
+          alejandra.aguirre@uam.es
+         "	"N/A, N/A, N/A, 
+         Instituto de Física Teórica UAM-CSIC,
+         
+         Universidad Autónoma de Madrid, C/ Nicolás Cabrera, 13-15, 28049 Madrid, Spain
+        "	"
+       In this work, we study the potential of the Cherenkov Telescope Array (CTA) for the detection of Galactic dark matter (DM) subhalos. We focus on low-mass subhalos that do not host any baryonic content and therefore lack any multiwavelength counterpart. If the DM is made of weakly interacting massive particles (WIMPs), these dark subhalos may thus appear in the gamma-ray sky as unidentified sources.
+A detailed characterization of the instrumental response of CTA to dark subhalos is performed, for which we use the
+       
+        ctools
+       
+       analysis software and simulate CTA observations under different array configurations and pointing strategies, such as the scheduled extragalactic survey. This, together with information on the subhalo population as inferred from N-body cosmological simulations, allows us to predict the CTA detectability of dark subhalos, i.e., the expected number of subhalos in each of the considered observational scenarios.
+In the absence of detection, for each observation strategy we set competitive limits to the annihilation cross section as a function of the DM particle mass, that are at the level of
+       
+       (
+       
+       )
+       
+       for the
+       
+       (
+       
+       ) annihilation channel in the best case scenario.
+Interestingly, we find the latter to be reached with no dedicated observations, as we obtain the best limits by just accumulating exposure time from all scheduled CTA programs and pointings over the first 10 years of operation. This way CTA will offer the most constraining limits from subhalo searches in the intermediate range between
+       
+       TeV, complementing previous results with
+       
+        Fermi
+       
+       -LAT and HAWC at lower and higher energies, respectively.
+      "	"
+
+       
+      
+      Dark matter,  Gamma rays,  Cosmology
+     "
