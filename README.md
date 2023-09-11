@@ -23,5 +23,5 @@ To run the code, follow these steps:
     ```bash
     python assignement01.py
     ```
-    
-The program will go through all the HTML files in a folder, collect important information, and save it in a TSV file called assignment01.tsv. If some information is missing in the HTML files, it will write 'N/A' in the TSV file. The program will also let you know which files it's currently working on and notify you when it's done.
+
+The program will go through all the HTML files in a folder, collect the information, and save it in a TSV file called assignment01.tsv. If some information is missing in the HTML files, it will write 'N/A' in the TSV file. The program will also let you know which files it's currently working on and notify you when it's done.
