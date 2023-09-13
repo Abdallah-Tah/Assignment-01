@@ -11,7 +11,7 @@ To run the code, follow these steps:
 2. Navigate to the directory containing the script:
 
     ```bash
-    cd path_to_script_directory
+    cd your/path/to/assignment01
     ```
 
 3. Run the script:
